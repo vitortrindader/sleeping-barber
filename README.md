@@ -9,6 +9,10 @@ O salão de barbeiros é composto por:
 - **3 Barbeiros**: Dormem quando não há clientes para atender e acordam quando um cliente chega.
 - **5 Cadeiras de Espera**: Os clientes aguardam nessas cadeiras se todos os barbeiros estiverem ocupados. Se todas as cadeiras estiverem ocupadas, o cliente vai embora sem cortar o cabelo.
 - **Clientes**: Chegam aleatoriamente ao salão. Se encontrarem uma cadeira de espera disponível, aguardam sua vez de ser atendidos. Caso contrário, deixam o salão sem receber atendimento.
+  
+## Funcionamento
+
+![Frame 101 (1)](https://github.com/user-attachments/assets/3388fea4-65a5-4cff-9297-3186051ddc67)
 
 ## Funcionalidades
 
